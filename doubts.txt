@@ -1,0 +1,2 @@
+is there null data type in C# ?
+can array of elements with different data types exists?
